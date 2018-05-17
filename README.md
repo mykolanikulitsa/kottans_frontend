@@ -9,4 +9,5 @@ Now I'm starting http://gitreal.codeschool.com. Its very interesting.
 Using a new tool can cause a bit of a headache in the first few days. The only way to get through this learning curve is to keep going. In this article a lot of good staff, but Udacity gave me a good ground. I like Typing club very much it will help me very much). Im sure that sourcetree is a very useful thing. To make work easier. Sourcetree) Use a Git GUI. 
 4. learngitbranching - is a very powerfull tutorial. I like It. There is a lot of new commands for me. But i think when you start using GiT GUI you make your life easier.
 5. Learn anything front-end - Its a front-end road map to become a confident front-end developer.
-There is a lot of new things for me. Im starting explore Its now.Its Perfect. There is so much information to explore. Thank you.  
+There is a lot of new things for me. Im starting explore Its now.Its Perfect. There is so much information to explore. Thank you.
+6. Linux Command Line Basics course was very interesting and easy. Its a new stuff that I know now and will keep learning It. First it was surprising that it has the same commands as in Git). I heard before about Linux, Ubuntu but never used it and never know how it can be useful. In feature It will be very helpful in dev.  
