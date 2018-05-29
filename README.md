@@ -10,4 +10,11 @@ Using a new tool can cause a bit of a headache in the first few days. The only w
 4. learngitbranching - is a very powerfull tutorial. I like It. There is a lot of new commands for me. But i think when you start using GiT GUI you make your life easier.
 5. Learn anything front-end - Its a front-end road map to become a confident front-end developer.
 There is a lot of new things for me. Im starting explore Its now.Its Perfect. There is so much information to explore. Thank you.
-  
+6. Linux Command Line Basics. It's an interesting course with funny guys)
+I have some troubles there with installing a VM but Google help me with that and I've done it well. I like that they give a good sequence of learning materials. I heard somethings about VM but farther I'll use it often. https://classroom.udacity.com/courses/ud595
+7. Configuring Linux Web Servers is more powerfull course. It is really hard to keep all that new staff in your mind. I've wrote down all that course in to my notebook.)) Good thing is that I remember to keep update all the staff you work on in order not to alter. I've learnt a couple dozen new commands. How to protect new user and what for. About default ports. First steps in using firewalls and how to activate it. And first steps in using web-servers. Thanks. https://classroom.udacity.com/courses/ud299
+8. Networking for Web Developers. Interesting and Informative course about servers, addresses, networks, HTTP and TCP. A lot of examples and illustrations about how does it work. How the internet works. How we can check everything what we need or what we want. Thanks! 
+https://classroom.udacity.com/courses/ud256
+
+
+
