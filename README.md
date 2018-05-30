@@ -15,6 +15,8 @@ I have some troubles there with installing a VM but Google help me with that and
 7. Configuring Linux Web Servers is more powerfull course. It is really hard to keep all that new staff in your mind. I've wrote down all that course in to my notebook.)) Good thing is that I remember to keep update all the staff you work on in order not to alter. I've learnt a couple dozen new commands. How to protect new user and what for. About default ports. First steps in using firewalls and how to activate it. And first steps in using web-servers. Thanks. https://classroom.udacity.com/courses/ud299
 8. Networking for Web Developers. Interesting and Informative course about servers, addresses, networks, HTTP and TCP. A lot of examples and illustrations about how does it work. How the internet works. How we can check everything what we need or what we want. Thanks! 
 https://classroom.udacity.com/courses/ud256
+9. I got a lot of theory from the two parts of the HTTP-protocol. Pavan Podila gives a fundamental understanding of the protocol and its accompanying components. I recognized the infrastructure on the server side. Went deeper into the HTTP-protocol. I understand what GET and POST are and also other verbs of queries.
+Repeat the mother of learning! I also got an idea about the processing of connections, identification and authentication. I understand what caching is, what kinds and meanings there are. This study of the protocol does not end here, since references are given for its further study. Great articles!
 
 
 
