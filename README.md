@@ -17,6 +17,10 @@ I have some troubles there with installing a VM but Google help me with that and
 https://classroom.udacity.com/courses/ud256
 9. I got a lot of theory from the two parts of the HTTP-protocol. Pavan Podila gives a fundamental understanding of the protocol and its accompanying components. I recognized the infrastructure on the server side. Went deeper into the HTTP-protocol. I understand what GET and POST are and also other verbs of queries.
 Repeat the mother of learning! I also got an idea about the processing of connections, identification and authentication. I understand what caching is, what kinds and meanings there are. This study of the protocol does not end here, since references are given for its further study. Great articles!
+10. “What is the version control” is a very helpful course! Dive deeper into version control system. More tips, hacks, tricks. I’ve like the info about commit messages – very useful. Good advice is that if you working in team, company - use their existing style(commit messages, css, html – I knew about that). This course had a ton of useful information! I like the last lesson about undoing changes. I got new tricks to save time during the work. Practice, Practice, Practice!
+Step-by-step.
+https://classroom.udacity.com/courses/ud123/
+
 
 
 
