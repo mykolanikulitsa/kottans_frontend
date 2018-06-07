@@ -20,6 +20,9 @@ Repeat the mother of learning! I also got an idea about the processing of connec
 10. “What is the version control” is a very helpful course! Dive deeper into version control system. More tips, hacks, tricks. I’ve like the info about commit messages – very useful. Good advice is that if you working in team, company - use their existing style(commit messages, css, html – I knew about that). This course had a ton of useful information! I like the last lesson about undoing changes. I got new tricks to save time during the work. Practice, Practice, Practice!
 Step-by-step.
 https://classroom.udacity.com/courses/ud123/
+11. GitHub & Collaboration. I’ve dive deeper into version control workflow. Now I’m sure I become more confident in Git and Github). I understood that It’s very important to write clear, descriptive, commit messages branch names. I got that if you make a contribute to forked repository It’s a good habit to create new branch and start working on that branch not on the master branch. Give a descriptive name to that branch!
+Also I like Git tips when did something wrong! As in previous course the last lesson is very important. Before you will atart your work on someone’s project read the guidelines. Useful command is “git rebase”, its very powerful and can make your life easier and save the place, time. Very useful. Just need to know how to use it correct. I’ve got a lot of useful links also. After this course, many things become more accessible.
+https://classroom.udacity.com/courses/ud456
 
 
 
