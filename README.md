@@ -23,6 +23,10 @@ https://classroom.udacity.com/courses/ud123/
 11. GitHub & Collaboration. I’ve dive deeper into version control workflow. Now I’m sure I become more confident in Git and Github). I understood that It’s very important to write clear, descriptive, commit messages branch names. I got that if you make a contribute to forked repository It’s a good habit to create new branch and start working on that branch not on the master branch. Give a descriptive name to that branch!
 Also I like Git tips when did something wrong! As in previous course the last lesson is very important. Before you will atart your work on someone’s project read the guidelines. Useful command is “git rebase”, its very powerful and can make your life easier and save the place, time. Very useful. Just need to know how to use it correct. I’ve got a lot of useful links also. After this course, many things become more accessible.
 https://classroom.udacity.com/courses/ud456
+12. Intro to HTML and CSS is a good primary course. They gave the basic links for searching for research. It's not the first Intro for, so all of that materials I've already know. Refreshed my memory.
+https://classroom.udacity.com/courses/ud001 
+
+
 
 
 
