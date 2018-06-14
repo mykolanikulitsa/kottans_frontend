@@ -25,6 +25,8 @@ Also I like Git tips when did something wrong! As in previous course the last le
 https://classroom.udacity.com/courses/ud456
 12. Intro to HTML and CSS is a good primary course. They gave the basic links for searching for research. It's not the first Intro for, so all of that materials I've already know. Refreshed my memory.
 https://classroom.udacity.com/courses/ud001 
+13. “Responsive Web Design Fundamentals” which gave basic knowledge and understanding of using CSS Grid and Flexbox. Almost every developer use It during the development. Its very powerful, flexible and convenient. Breakpoints and Media queries are absolutely new for. Next what I’m gonna do is to learn more about all that stuff. Get more practice. Dive deeper cause Its not enough for me. I’m confused about it)) Need more time and practice!
+https://classroom.udacity.com/courses/ud893
 
 
 
